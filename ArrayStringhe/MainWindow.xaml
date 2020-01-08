@@ -12,6 +12,6 @@
         <Button Name="BtnStampa" Content="STAMPA" HorizontalAlignment="Left" IsEnabled="False" Margin="570,80,0,0" VerticalAlignment="Top" Width="100" Height="47" Click="BtnStampa_Click"/>
         <Button Name="BtnPubblica" Content="PUBBLICA" HorizontalAlignment="Left" IsEnabled="False" Margin="355,171,0,0" VerticalAlignment="Top" Width="100" Height="47" Click="BtnPubblica_Click"/>
         <Label Name="LblStringa" Content="" HorizontalAlignment="Left" Margin="75,200,0,0" VerticalAlignment="Top" Height="161" Width="235"/>
-
+ 
     </Grid>
 </Window>
